@@ -23,6 +23,7 @@
 		8104B92220EE8757007B5A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8104B92720EE8757007B5A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8104B92920EE8757007B5A55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81DB31D920EED043006173FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = CryptoConverter/Assets.xcassets; sourceTree = "<group>"; };
 		CB1BD9E00650F34E1A67078F /* Pods-CryptoConverter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptoConverter.release.xcconfig"; path = "Pods/Target Support Files/Pods-CryptoConverter/Pods-CryptoConverter.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,6 +61,7 @@
 			children = (
 				8104B91C20EE8757007B5A55 /* CryptoConverter */,
 				8104B91B20EE8757007B5A55 /* Products */,
+				81DB31D920EED043006173FE /* Assets.xcassets */,
 				6D7975F5A9F701B661151EAE /* Pods */,
 				1CA3CBE9AB0AA04AE94FEDD3 /* Frameworks */,
 			);
